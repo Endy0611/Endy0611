@@ -1,69 +1,44 @@
-<div align="center">
+<h2 align="left">Hi 👋! My name is Endy and I'm a third-year student at Norton University, from Cambodia.</h2>
 
-```
-███████╗███╗   ██╗██████╗ ██╗   ██╗
-██╔════╝████╗  ██║██╔══██╗╚██╗ ██╔╝
-█████╗  ██╔██╗ ██║██║  ██║ ╚████╔╝ 
-██╔══╝  ██║╚██╗██║██║  ██║  ╚██╔╝  
-███████╗██║ ╚████║██████╔╝   ██║   
-╚══════╝╚═╝  ╚═══╝╚═════╝    ╚═╝   
-```
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm8zeTRkYXpsZG9rZzF5YWE1aTh6ZDQ1OWlhNmJtOGMxNXh5OGNjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2cpDFcKzAPMScb0MC/giphy.gif" />
 
-### Hi there 👋 — I'm **Endy Yong**
-**Third-year CS Student** · Norton University · 🇰🇭 Cambodia
+###
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:endyong18@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+### 🛠️ Tech Stack
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" title="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" title="Spring Boot" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" title="Next.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" title="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" title="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" title="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" title="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" title="Git" />
 </div>
 
----
+###
 
-## 🧑‍💻 About Me
+### 📬 Contact
 
-- 🎓 Studying at **Norton University**, Cambodia
-- 💡 Passionate about building clean and scalable backend systems
-- 🌱 Currently deepening my skills in **Spring Boot** & **system design**
-- 🤝 Open to collaborations, projects, and learning together
-
----
-
-## 🛠️ Tech Stack
-
-| Layer | Technologies |
-|-------|-------------|
-| **Languages** | Java |
-| **Frameworks** | Spring Boot, Spring Security, Spring Data JPA |
-| **Databases** | MySQL, PostgreSQL |
-| **Tools** | Git, GitHub, Postman, IntelliJ IDEA |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=endyong18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=endyong18&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
+<div align="left">
+  <a href="mailto:endyong18@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=endyong18&theme=tokyonight&hide_border=true" height="160" />
-</div>
+###
 
----
+### 📊 Stats
 
-## 🌐 Let's Connect
-
-<div align="center">
-
-📬 Reach me at **endyong18@gmail.com** — always happy to chat!
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=endyong18&style=flat-square&color=6366f1" alt="Profile views" />
-  
-  *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </div>
