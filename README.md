@@ -34,6 +34,12 @@
 <div align="left">
     <a href="mailto:endyong18@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 </div>
+<div align="left">
+    <a href="mailto:endyong18@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1280px-Spring_Framework_Logo_2018.svg.png" height="35" alt="gmail logo"  /></a>
+</div>
+<div align="left">
+    <a href="mailto:endyong18@gmail.com"><img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" height="35" alt="gmail logo"  /></a>
+</div>
 
 ###
 
