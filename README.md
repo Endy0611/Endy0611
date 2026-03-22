@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! My name is Endy and I'm a third-year student at Norton University, from Cambodia.</h2>
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm8zeTRkYXpsZG9rZzF5YWE1aTh6ZDQ1OWlhNmJtOGMxNXh5OGNjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2cpDFcKzAPMScb0MC/giphy.gif" />
-
 ###
 
 ### 🛠️ Tech Stack
