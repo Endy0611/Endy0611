@@ -26,7 +26,7 @@ Right now I'm going deep on **Local LLMs and Retrieval-Augmented Generation (RAG
 - 🧠 Basic & Advanced Full-Stack Track @ KSHRD Center
 - 🤖 Currently mastering **Local LLMs & RAG systems**
 - 🛠️ Full-stack: DB design → backend APIs → frontend UI → deployment
-- 📫 Reach me at **endyong18@gmail.com**
+- 📫 Reach me at *endyong18@gmail.com**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:8B0000&height=3&width=100%" width="100%"/>
 
@@ -68,7 +68,7 @@ Right now I'm going deep on **Local LLMs and Retrieval-Augmented Generation (RAG
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Attendee University
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=1000&color=FFD700&center=false&vCenter=true&width=280&height=30&lines=%F0%9F%9B%A1+Attendee+University" />
 <img src="https://skillicons.dev/icons?i=typescript,python,spring,nginx,docker,postgres,gcp,jenkins&theme=dark" height="26"/>
 
 Secure geofenced attendance platform with facial verification.
@@ -76,7 +76,7 @@ Secure geofenced attendance platform with facial verification.
 </td>
 <td width="50%" valign="top">
 
-### 🗓️ HRD EventHub
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=1000&color=FFD700&center=false&vCenter=true&width=280&height=30&lines=%F0%9F%97%93%EF%B8%8F+HRD+EventHub" />
 <img src="https://skillicons.dev/icons?i=typescript,spring,nginx,docker,postgres,git&theme=dark" height="26"/>
 
 Event & profile management platform — posts, payments, security.
@@ -86,7 +86,7 @@ Event & profile management platform — posts, payments, security.
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Taskflow
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=1000&color=FFD700&center=false&vCenter=true&width=280&height=30&lines=%E2%9A%A1+Taskflow" />
 <img src="https://skillicons.dev/icons?i=react&theme=dark" height="26"/>
 
 Task management system for tracking work end to end.
@@ -94,7 +94,7 @@ Task management system for tracking work end to end.
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Exception Checker Tool
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=1000&color=FFD700&center=false&vCenter=true&width=280&height=30&lines=%F0%9F%A7%A9+Exception+Checker+Tool" />
 <img src="https://skillicons.dev/icons?i=nextjs,prisma,postgres&theme=dark" height="26"/>
 
 Utility for detecting and reporting code exceptions.
@@ -104,7 +104,7 @@ Utility for detecting and reporting code exceptions.
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 Ecommerce Project
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=1000&color=FFD700&center=false&vCenter=true&width=280&height=30&lines=%F0%9F%9B%92+Ecommerce+Project" />
 <img src="https://skillicons.dev/icons?i=php,nextjs,spring&theme=dark" height="26"/>
 
 Full-stack e-commerce app with auth and product flows.
@@ -112,7 +112,7 @@ Full-stack e-commerce app with auth and product flows.
 </td>
 <td width="50%" valign="top">
 
-### ✨ More on my GitHub
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=1000&color=FFD700&center=false&vCenter=true&width=280&height=30&lines=%E2%9C%A8+More+on+my+GitHub" />
 <img src="https://skillicons.dev/icons?i=github&theme=dark" height="26"/>
 
 Check my pinned repos for the latest work.
@@ -134,15 +134,7 @@ Check my pinned repos for the latest work.
 
 </div>
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Endy0611/Endy0611/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:8B0000&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:8B0000&height=3&width=100%" width="100%"/">
 
 ## 🔗 Connect With Me
 
