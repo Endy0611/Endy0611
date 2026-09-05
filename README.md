@@ -15,21 +15,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%" width="100%"/>
 
-## 🚀 About Me
+## ⚡ About Me
 
 I'm **Ong Endy**, a 4th-year Computer Science student at **Norton University**, currently pursuing an advanced full-stack development course at the **KSHRD Center**. I build production-style systems end to end — designing databases, writing backend services, shipping frontends, and wiring up the CI/CD pipelines that ship them.
 
 Lately I've been going deeper into **Local LLMs and Retrieval-Augmented Generation (RAG)** — running models locally with Ollama, building indexing pipelines with ChromaDB, and figuring out how to make AI tooling work without relying on external APIs.
 
-- 🎓 4th Year Student @ Norton University
-- 🧠 Advanced Full-Stack Track @ KSHRD Center
+- 🎓 4th Year Student At Norton University
+- 🧠 Advanced Full-Stack Track At KSHRD Center
 - 🤖 Currently mastering **Local LLMs & RAG systems**
 - 🛠️ Comfortable across the stack: DB design → backend APIs → frontend UI → deployment
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **endyong18@gmail.com**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%" width="100%"/>
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
 <div align="center">
 
@@ -61,43 +61,68 @@ Lately I've been going deeper into **Local LLMs and Retrieval-Augmented Generati
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%" width="100%"/>
 
-## 📌 Featured Projects
+## 🗂️ Featured Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Endy0611">
-<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Endy0611&repo=attendee-university&theme=dark&title_color=FFD700&text_color=ffffff&bg_color=0F2027&border_color=2C5364" />
-</a>
-<a href="https://github.com/Endy0611">
-<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Endy0611&repo=hrd-eventhub&theme=dark&title_color=FFD700&text_color=ffffff&bg_color=0F2027&border_color=2C5364" />
-</a>
+### 🛡️ Attendee University
+<img src="https://skillicons.dev/icons?i=spring,nextjs&theme=dark" height="28"/>
 
-<a href="https://github.com/Endy0611">
-<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Endy0611&repo=taskflow&theme=dark&title_color=FFD700&text_color=ffffff&bg_color=0F2027&border_color=2C5364" />
-</a>
-<a href="https://github.com/Endy0611">
-<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Endy0611&repo=ecommerce-project&theme=dark&title_color=FFD700&text_color=ffffff&bg_color=0F2027&border_color=2C5364" />
-</a>
+Secure geofenced attendance platform with facial verification.
 
-<a href="https://github.com/Endy0611">
-<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Endy0611&repo=exception-checker-tool&theme=dark&title_color=FFD700&text_color=ffffff&bg_color=0F2027&border_color=2C5364" />
-</a>
+</td>
+<td width="50%" valign="top">
 
-</div>
+### 🗓️ HRD EventHub
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" height="28"/>
 
-> 💡 **Note:** replace the `repo=` names above with your exact GitHub repo slugs, or these pin cards won't render (GitHub's stats API needs the repo to exist under your account).
+Event & profile management platform — posts, payments, security.
 
-| Project | Description |
-|---|---|
-| 🎯 **Attendee University** | Secure geofenced attendance platform with facial verification (Spring Boot + Next.js) |
-| 📅 **HRD EventHub** | Event & profile management platform with posts, payments, and security (Spring Boot) |
-| ✅ **Taskflow** | Task management system |
-| 🛒 **Ecommerce Project** | Full-stack e-commerce app (Next.js + Spring Boot) |
-| 🐞 **Exception Checker Tool** | Utility for detecting and reporting code exceptions |
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Taskflow
+<img src="https://skillicons.dev/icons?i=spring,nextjs&theme=dark" height="28"/>
+
+Task management system for tracking work end to end.
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Ecommerce Project
+<img src="https://skillicons.dev/icons?i=nextjs,spring&theme=dark" height="28"/>
+
+Full-stack e-commerce app with auth and product flows.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Exception Checker Tool
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="28"/>
+
+Utility for detecting and reporting code exceptions.
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ More on my GitHub
+<img src="https://skillicons.dev/icons?i=github&theme=dark" height="28"/>
+
+Check my pinned repos for the latest work.
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%" width="100%"/>
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -108,7 +133,7 @@ Lately I've been going deeper into **Local LLMs and Retrieval-Augmented Generati
 
 </div>
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <div align="center">
 
@@ -116,18 +141,16 @@ Lately I've been going deeper into **Local LLMs and Retrieval-Augmented Generati
 
 </div>
 
-> ⚙️ To activate the animated snake, set up the [Platane/snk](https://github.com/Platane/snk) GitHub Action on your profile repo — it auto-generates the SVG above from your contribution graph.
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%" width="100%"/>
 
-## 🌐 Connect With Me
+## 🔗 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Endy0611">
 <img src="https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=FFD700" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:endyong18@gmail.com">
 <img src="https://img.shields.io/badge/Email-2C5364?style=for-the-badge&logo=gmail&logoColor=FFD700" />
 </a>
 
