@@ -123,32 +123,18 @@ Check my pinned repos for the latest work.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:8B0000&height=3&width=100%" width="100%"/>
 
+
 ## 📈 GitHub Stats
-
+ 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Endy0611&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-
-<br/>
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Endy0611&show_icons=true&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FF4500&text_color=ffffff&border_color=8B0000&rank_icon=github" />
-</td>
-<td>
-<img src="https://streak-stats.demolab.com?user=Endy0611&hide_border=true&background=000000&ring=FFD700&fire=FF4500&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=FFFFFF" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Endy0611&bg_color=000000&color=FFD700&line=FF4500&point=FFFFFF&area=true&hide_border=true&area_color=8B0000" width="95%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endy0611&layout=compact&hide_border=true&bg_color=000000&title_color=FFD700&text_color=ffffff&border_color=8B0000" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=Endy0611&show_icons=true&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FF4500&text_color=ffffff&border_color=8B0000&rank_icon=github" width="49%" />
+<img src="https://streak-stats.demolab.com?user=Endy0611&hide_border=true&background=000000&ring=FFD700&fire=FF4500&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=FFFFFF" width="49%" />
+<br/><br/>
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endy0611&layout=compact&hide_border=true&bg_color=000000&title_color=FFD700&text_color=ffffff&border_color=8B0000&langs_count=10" width="70%" />
 </div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:8B0000&height=3&width=100%" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:8B0000&height=3&width=100%" width="100%"/">
 
 ## 🔗 Connect With Me
 
