@@ -1,152 +1,110 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FFD700&height=260&section=header&text=ONG%20ENDY&fontSize=75&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20LOCAL%20LLM%20BUILDER&descAlignY=58&descSize=22&descColor=FFD700" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1E3A8A,100:22D3EE&height=280&section=header&text=Ong%20Endy&fontSize=80&fontColor=FFFFFF&fontAlignY=42&desc=Full%20Stack%20Developer%20%C2%B7%20Local%20LLM%20Builder&descAlignY=64&descSize=22&descColor=A5F3FC" width="100%"/>
 
 <a href="https://github.com/Endy0611">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2200&pause=800&color=FFD700&center=true&vCenter=true&width=650&lines=BUILDING+SYSTEMS+THAT+DON%27T+BREAK;SPRING+BOOT+%2B+NEXT.JS+DEVELOPER;MASTERING+LOCAL+LLMs+%26+RAG;4TH+YEAR+CS+%40+NORTON+UNIVERSITY" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+Spring+Boot+%2B+Next.js+dev;%24+ollama+run+local-llm;%24+building+RAG+without+external+APIs;%24+4th+year+CS+%40+Norton+University" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Endy0611&color=FFD700&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/Endy0611?label=FOLLOWERS&style=for-the-badge&color=8B0000&labelColor=000000" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:8B0000&height=3&width=100%" width="100%"/>
-
-## ⚡ About Me
-
-I'm **Ong Endy** — a 4th-year Computer Science student at **Norton University**, **Foundation Generation 4** at **ISTAD**, and I've gone through both the **Basic** and **Advanced** full-stack development courses at **KSHRD Center**. I build production-style systems end to end: databases, backend services, frontends, and the CI/CD pipelines that ship them.
-
-Right now I'm going deep on **Local LLMs and Retrieval-Augmented Generation (RAG)** — running models locally with Ollama, building indexing pipelines with ChromaDB, and pushing to make AI tooling work without depending on external APIs.
-
-- 🎓 4th Year Student @ Norton University
-- 🏛️ Foundation Generation 4 @ ISTAD
-- 🧠 Basic & Advanced Full-Stack Track @ KSHRD Center
-- 🤖 Currently mastering **Local LLMs & RAG systems**
-- 🛠️ Full-stack: DB design → backend APIs → frontend UI → deployment
-- 📫 Reach me at **endyong18@gmail.com**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:8B0000&height=3&width=100%" width="100%"/>
-
-## 🧠 Tech Stack
-
-<div align="center">
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,spring,fastapi,python&theme=dark&perline=4" width="220"/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript&theme=dark&perline=3" width="165"/>
-
-**Database & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,docker,jenkins,nginx,git,github,gcp&theme=dark&perline=7" width="385"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFD700"/>
-<br/>
-<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700"/>
+<img src="https://komarev.com/ghpvc/?username=Endy0611&color=22D3EE&style=flat-square&label=VIEWS" />
+<img src="https://img.shields.io/github/followers/Endy0611?label=FOLLOWERS&style=flat-square&color=1E3A8A&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/status-building-22D3EE?style=flat-square&labelColor=0D1117" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:8B0000&height=3&width=100%" width="100%"/>
+---
 
-## 🗂️ Featured Projects
+## `~/about`
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+```ts
+const endy = {
+  name: "Ong Endy",
+  role: "Full Stack Developer",
+  education: [
+    "CS, 4th year @ Norton University",
+    "Foundation Gen 4 @ ISTAD",
+    "Basic + Advanced Full-Stack @ KSHRD Center",
+  ],
+  stack: ["Spring Boot", "Next.js", "TypeScript", "PostgreSQL", "FastAPI"],
+  devops: ["Docker", "Jenkins", "Nginx", "GCP"],
+  currentlyMastering: "Local LLMs & RAG (Ollama + ChromaDB)",
+  contact: "endyong18@gmail.com",
+};
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=1000&color=FFD700&center=false&vCenter=true&width=280&height=30&lines=%F0%9F%9B%A1+Attendee+University" />
-<img src="https://skillicons.dev/icons?i=typescript,python,spring,nginx,docker,postgres,gcp,jenkins&theme=dark" height="26"/>
+I build systems end to end: database design, backend APIs, frontend UI, and the CI/CD pipelines that ship them. Right now I'm going deep on running models locally and building retrieval pipelines that work without depending on external APIs.
 
-Secure geofenced attendance platform with facial verification.
+---
 
-</td>
-<td width="50%" valign="top">
+## `~/workflow`
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=1000&color=FFD700&center=false&vCenter=true&width=280&height=30&lines=%F0%9F%97%93%EF%B8%8F+HRD+EventHub" />
-<img src="https://skillicons.dev/icons?i=typescript,spring,nginx,docker,postgres,git&theme=dark" height="26"/>
-
-Event & profile management platform — posts, payments, security.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=1000&color=FFD700&center=false&vCenter=true&width=280&height=30&lines=%E2%9A%A1+Taskflow" />
-<img src="https://skillicons.dev/icons?i=react&theme=dark" height="26"/>
-
-Task management system for tracking work end to end.
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=1000&color=FFD700&center=false&vCenter=true&width=280&height=30&lines=%F0%9F%A7%A9+Exception+Checker+Tool" />
-<img src="https://skillicons.dev/icons?i=nextjs,prisma,postgres&theme=dark" height="26"/>
-
-Utility for detecting and reporting code exceptions.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=1000&color=FFD700&center=false&vCenter=true&width=280&height=30&lines=%F0%9F%9B%92+Ecommerce+Project" />
-<img src="https://skillicons.dev/icons?i=php,nextjs,spring&theme=dark" height="26"/>
-
-Full-stack e-commerce app with auth and product flows.
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=1000&color=FFD700&center=false&vCenter=true&width=280&height=30&lines=%E2%9C%A8+More+on+my+GitHub" />
-<img src="https://skillicons.dev/icons?i=github&theme=dark" height="26"/>
-
-Check my pinned repos for the latest work.
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:8B0000&height=3&width=100%" width="100%"/>
-
-
-## 📈 GitHub Stats
- 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Endy0611&show_icons=true&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FF4500&text_color=ffffff&border_color=8B0000&rank_icon=github" width="49%" />
-<img src="https://streak-stats.demolab.com?user=Endy0611&hide_border=true&background=000000&ring=FFD700&fire=FF4500&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=FFFFFF" width="49%" />
+  <img src="./flow.svg" alt="Endy's build workflow" width="100%"/>
+</div>
+
+---
+
+## `~/stack`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nextjs,react,typescript&theme=dark&perline=7" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,docker,jenkins,nginx,git,github,gcp&theme=dark&perline=7" />
+
 <br/><br/>
- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endy0611&layout=compact&hide_border=true&bg_color=000000&title_color=FFD700&text_color=ffffff&border_color=8B0000&langs_count=10" width="70%" />
+
+<img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=flat-square&logo=springboot&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Jenkins-0D1117?style=flat-square&logo=jenkins&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=22D3EE" />
+
 </div>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:8B0000&height=3&width=100%" width="100%"/>
 
+---
 
-## 🔗 Connect With Me
+## `~/projects`
+
+| Project | Stack | What it does |
+| :-- | :-- | :-- |
+| 🛡️ **Attendee University** | Spring Boot · Next.js · Python · Docker · Jenkins | Secure geofenced attendance platform with facial verification |
+| 🗓️ **HRD EventHub** | Spring Boot · Next.js · PostgreSQL · Nginx | Event & profile management: posts, payments, security |
+| ⚡ **Taskflow** | React | Task management system for tracking work end to end |
+| 🧩 **Exception Checker Tool** | Next.js · Prisma · PostgreSQL | Detects and reports code exceptions |
+| 🛒 **Ecommerce Project** | Next.js · Spring Boot | Full-stack store with auth and product flows |
+| 🤖 **Local RAG** | Ollama · ChromaDB · Python | PDF indexing + retrieval pipeline running fully local |
+
+> More in my [pinned repos](https://github.com/Endy0611?tab=repositories).
+
+---
+
+## `~/stats`
 
 <div align="center">
 
-<a href="https://github.com/Endy0611">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700" />
-</a>
-<a href="mailto:endyong18@gmail.com">
-<img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=FFD700" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Endy0611&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&icon_color=38BDF8&text_color=E5E7EB&rank_icon=github" width="49%" />
+<img src="https://streak-stats.demolab.com?user=Endy0611&hide_border=true&background=0D1117&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF" width="49%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endy0611&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB&langs_count=8" width="60%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:8B0000,100:000000&height=120&section=footer" width="100%"/>
+---
+
+## `~/contact`
+
+<div align="center">
+
+<a href="https://github.com/Endy0611"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" /></a>
+<a href="mailto:endyong18@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:1E3A8A,100:0D1117&height=120&section=footer" width="100%"/>
